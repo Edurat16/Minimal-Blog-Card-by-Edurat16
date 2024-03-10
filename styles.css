@@ -3,12 +3,11 @@
 
 html{
     background-color: #FAFAF9;
-    margin-top: 0;
+    margin-top: 164px;
     padding-top: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 720px;
     width: 1280px;
 }
 
