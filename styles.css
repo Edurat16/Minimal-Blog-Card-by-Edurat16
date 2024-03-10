@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+
+html{
+    background-color: #FAFAF9;
+    margin-top: 164px;
+    margin-bottom: 164px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 720px;
+    width: 1280px;
+}
+
+body {
+    background-color: white;
+    box-shadow: 10px 5px 100px #E5EAF0;
+    border-radius: 8px;
+    padding: 0;
+    margin: 0;
+
+}
+
+#imagen {
+    text-align: center;
+    margin: 0;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+}
+
+#cactus {
+    border-radius: 8px;
+}
+
+#tag {
+    background-color: #E6D6FC;
+    border-radius: 16px;
+    width: max-content;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 6px;
+    padding-top: 6px;
+    margin-bottom: 6px;
+    padding-bottom: 6px;
+    font-size: 10px;
+    font-family: sora;
+    color: #883AE1;
+}
+
+#titulo {
+    font-family: sora;
+    font-size: 18px;
+}
+
+
+#body {
+    font-family: sora;
+    font-size: 14px;
+    color: #6C727F;
+    width: 336px;
+}
+
+#smalltext {
+    font-family: sora;
+    font-size: 12px;
+    padding-top: 20px;
+    margin-bottom: 0;
+    color: #6C727F;
+}
+
+#tagdiv {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+#bodydiv {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 10px;
+}
+
+#smaltxtdiv{
+    border-top: 1px solid #c8c9ca;
+    padding-bottom: 20px;
+    padding-left: 16px;
+
+}
+
+#titulodiv {
+    padding-top: 10px;
+    padding-left: 16px;
+}
